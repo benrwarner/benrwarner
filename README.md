@@ -18,6 +18,7 @@ I'm a fourth-year Computer Science student at [Ontario Tech University](https://
 #### Projects
 
 | | |
+|---|---|
 | [**ohno**](https://github.com/benrwarner/ohno) | A flight recorder for your codebase. It takes automatic snapshots of uncommitted work, so you can undo instantly when an AI agent (or you) wrecks it. [`npm`](https://www.npmjs.com/package/@benwarner/ohno) |
 | [**clogo**](https://github.com/benrwarner/clogo) | A Claude Code plugin so your coding agent designs a real logo, not a letter in a square. It makes SVG logos, favicons and app icons. |
 | [**wemake**](https://github.com/benrwarner/wemake) | A realtime collaborative music studio in the browser. It's self-hosted on a Raspberry Pi as a GHCR image. [Live ↗](https://wemake.ben-warner.dev) |
