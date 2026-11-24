@@ -19,6 +19,7 @@ I'm a fourth-year Computer Science student at [Ontario Tech University](https://
 
 | | |
 |---|---|
+| [**iseall**](https://github.com/benrwarner/iseall) | A live server dashboard that ships as one ~8 MB Go binary with zero dependencies (~15–20 MB RAM). It detects Pi models, Docker, systemd, nginx and Tailscale and builds itself to match. Runs on every Pi from the Zero to the Pi 5, on x86-64 Linux and on macOS. |
 | [**ohno**](https://github.com/benrwarner/ohno) | A flight recorder for your codebase. It takes automatic snapshots of uncommitted work, so you can undo instantly when an AI agent (or you) wrecks it. [`npm`](https://www.npmjs.com/package/@benwarner/ohno) |
 | [**clogo**](https://github.com/benrwarner/clogo) | A Claude Code plugin so your coding agent designs a real logo, not a letter in a square. It makes SVG logos, favicons and app icons. |
 | [**wemake**](https://github.com/benrwarner/wemake) | A realtime collaborative music studio in the browser. It's self-hosted on a Raspberry Pi as a GHCR image. [Live ↗](https://wemake.ben-warner.dev) |
@@ -28,7 +29,7 @@ I'm a fourth-year Computer Science student at [Ontario Tech University](https://
 
 **Platform:** Kubernetes (k3s) · Argo CD / GitOps · Docker · Cloudflare Workers & Tunnels · Tailscale · Nginx · Linux · Azure AI Foundry · GCP · Supabase<br>
 **AI:** MCP / FastMCP · RAG · vector search · BM25 · constrained decoding · agent loops · evals · Ollama · Claude & OpenAI APIs<br>
-**Languages:** Python · TypeScript · JavaScript · SQL · C/C++ · Java<br>
+**Languages:** Python · Go · TypeScript · JavaScript · SQL · C/C++ · Java<br>
 **Frameworks:** Next.js · React · Angular · FastAPI · Node.js · Postgres · Power BI
 
 ---
